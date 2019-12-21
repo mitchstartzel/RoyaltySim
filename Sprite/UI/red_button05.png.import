@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/red_button05.png-1687b8b8f989779a3b7c1f14bbefa990.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprite/UI/red_button05.png"
+dest_files=[ "res://.import/red_button05.png-1687b8b8f989779a3b7c1f14bbefa990.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

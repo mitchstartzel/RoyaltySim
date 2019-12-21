@@ -19,9 +19,14 @@ config/name="RoyaltySim"
 run/main_scene="res://Scenes/map.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/resizable=false
+window/stretch/mode="2d"
+
 [rendering]
 
 quality/driver/driver_name="GLES2"
+quality/2d/use_pixel_snap=true
 vram_compression/import_etc=true
 vram_compression/import_etc2=false
-environment/default_environment="res://default_env.tres"
